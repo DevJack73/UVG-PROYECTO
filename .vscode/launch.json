@@ -1,0 +1,13 @@
+{
+    // Configuración para depurar y ejecutar en Microsoft Edge
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Abrir en Microsoft Edge (Vite 5173)",
+            "url": "http://localhost:5173",
+            "webRoot": "${workspaceFolder}/frontend"
+        }
+    ]
+}
